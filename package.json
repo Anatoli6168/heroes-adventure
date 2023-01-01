@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@pixi/events": "^7.0.5",
-    "@pixi/graphics-extras": "^7.0.5",
-    "cors": "^2.8.5"
-  }
-}
